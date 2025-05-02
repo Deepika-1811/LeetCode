@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Deepika-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Deepika-1811/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Deepika-1811/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepika-1811/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Deepika-1811/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Deepika-1811/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Deepika-1811/LeetCode/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepika-1811/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deepika-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Greedy
 |  |
