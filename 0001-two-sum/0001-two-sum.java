@@ -1,5 +1,5 @@
 class Solution {
-    public static int[] twoSum(int[] nums, int target) {
+    public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
@@ -9,12 +9,8 @@ class Solution {
             }
         }
         return new int[]{-1,-1};
+    
         
     }
-    public static void main(String[] args){
-        int[] nums = {3,3};
-        int target = 6;
-        int[] result = twoSum(nums,target);
-        System.out.println(Arrays.toString(result));
-    }
 }
+
