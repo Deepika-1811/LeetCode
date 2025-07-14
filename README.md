@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Deepika-1811/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Deepika-1811/LeetCode/tree/master/0682-baseball-game) |
+| [0740-delete-and-earn](https://github.com/Deepika-1811/LeetCode/tree/master/0740-delete-and-earn) |
 | [1095-two-city-scheduling](https://github.com/Deepika-1811/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deepika-1811/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deepika-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Deepika-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Deepika-1811/LeetCode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Deepika-1811/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0740-delete-and-earn](https://github.com/Deepika-1811/LeetCode/tree/master/0740-delete-and-earn) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Deepika-1811/LeetCode/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/Deepika-1811/LeetCode/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
