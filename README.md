@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Deepika-1811/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deepika-1811/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deepika-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepika-1811/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Deepika-1811/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
@@ -104,5 +105,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Deepika-1811/LeetCode/tree/master/0740-delete-and-earn) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepika-1811/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Deepika-1811/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepika-1811/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
