@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Deepika-1811/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepika-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deepika-1811/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1813-maximum-erasure-value](https://github.com/Deepika-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Deepika-1811/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deepika-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepika-1811/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Deepika-1811/LeetCode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Deepika-1811/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/Deepika-1811/LeetCode/tree/master/0740-delete-and-earn) |
+| [1813-maximum-erasure-value](https://github.com/Deepika-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Deepika-1811/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Sorting
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Deepika-1811/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/Deepika-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
