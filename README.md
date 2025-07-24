@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepika-1811/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Deepika-1811/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Deepika-1811/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Deepika-1811/LeetCode/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/Deepika-1811/LeetCode/tree/master/0740-delete-and-earn) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Deepika-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Deepika-1811/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Deepika-1811/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/Deepika-1811/LeetCode/tree/master/0740-delete-and-earn) |
 | [1813-maximum-erasure-value](https://github.com/Deepika-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Deepika-1811/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1095-two-city-scheduling](https://github.com/Deepika-1811/LeetCode/tree/master/1095-two-city-scheduling) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deepika-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Stack
@@ -97,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepika-1811/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Depth-First Search
 |  |
@@ -136,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/Deepika-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
