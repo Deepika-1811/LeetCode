@@ -1,40 +1,36 @@
 class Solution {
     public long maxSubarrays(int n, int[][] conflictingPairs) {
-         List<Integer>[] right = new ArrayList[n + 1];
-        for (int i = 0; i <= n; i++) {
-            right[i] = new ArrayList<>();
-        }
-        for (int[] pair : conflictingPairs) {
-            right[Math.max(pair[0], pair[1])].add(Math.min(pair[0], pair[1]));
-        }
-
-        long ans = 0;
-        long[] left = {0, 0}; // left[0] is top1, left[1] is top2
-        long[] bonus = new long[n + 1];
-
-        for (int r = 1; r <= n; r++) {
-            for (int l_val : right[r]) {
-                // Manually update top two values
-                if (l_val > left[0]) {
-                    left[1] = left[0];
-                    left[0] = l_val;
-                } else if (l_val > left[1]) {
-                    left[1] = l_val;
-                }
-            }
-
-            ans += r - left[0];
-            
-            if (left[0] > 0) {
-                bonus[(int)left[0]] += left[0] - left[1];
-            }
-        }
+        List<List<Integer>> conflicts = new ArrayList<>();
+        for(int i=0 ; i<=n ; i++)
+            conflicts.add(new ArrayList<>());
         
-        long maxBonus = 0;
-        for (long b : bonus) {
-            maxBonus = Math.max(maxBonus, b);
+        for(int[] c : conflictingPairs) {
+            int left = c[0], right = c[1];
+            if(left>right) {
+                int temp = left;
+                left = right;
+                right = temp;
+            }
+            conflicts.get(right).add(left);
         }
-
-        return ans + maxBonus;
+        long[] restrictRemoval = new long[n+1];
+        int leftMaxRestrict = 0, leftSecondMaxRestrict = 0;
+        long res = 0L;
+        for(int i=1 ; i<=n ; i++) {
+            for(Integer ele : conflicts.get(i)) {
+                if(ele > leftMaxRestrict) {
+                    leftSecondMaxRestrict = leftMaxRestrict;
+                    leftMaxRestrict = ele;
+                } else if(ele > leftSecondMaxRestrict)
+                    leftSecondMaxRestrict = ele;
+            }
+            res += 0L + i - leftMaxRestrict;
+            restrictRemoval[leftMaxRestrict] += leftMaxRestrict - leftSecondMaxRestrict;
+        }
+        long maxRemovalVal = 0L;
+        for(int i=1 ; i<=n ; i++)
+            maxRemovalVal = Math.max(maxRemovalVal, restrictRemoval[i]);
+        res += maxRemovalVal;
+        return res;
     }
 }
