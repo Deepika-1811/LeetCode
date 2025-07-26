@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deepika-1811/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepika-1811/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Deepika-1811/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Deepika-1811/LeetCode/tree/master/0682-baseball-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Deepika-1811/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Deepika-1811/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepika-1811/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Deepika-1811/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Deepika-1811/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepika-1811/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepika-1811/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1095-two-city-scheduling](https://github.com/Deepika-1811/LeetCode/tree/master/1095-two-city-scheduling) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Deepika-1811/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Deepika-1811/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deepika-1811/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deepika-1811/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Deepika-1811/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [1023-time-based-key-value-store](https://github.com/Deepika-1811/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
