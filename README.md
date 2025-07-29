@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepika-1811/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Deepika-1811/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Deepika-1811/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Deepika-1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Deepika-1811/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Deepika-1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepika-1811/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/Deepika-1811/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Deepika-1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepika-1811/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Deepika-1811/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Deepika-1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Tree
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [1023-time-based-key-value-store](https://github.com/Deepika-1811/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Deepika-1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Design
 |  |
 | ------- |
