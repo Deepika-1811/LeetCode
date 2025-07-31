@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deepika-1811/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Deepika-1811/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Deepika-1811/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Deepika-1811/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Deepika-1811/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepika-1811/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -118,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Deepika-1811/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deepika-1811/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Deepika-1811/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deepika-1811/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Deepika-1811/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Deepika-1811/LeetCode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Deepika-1811/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepika-1811/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
