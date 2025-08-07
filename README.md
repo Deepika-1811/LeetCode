@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Deepika-1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2689-rearranging-fruits](https://github.com/Deepika-1811/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Deepika-1811/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepika-1811/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Deepika-1811/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepika-1811/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepika-1811/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepika-1811/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Deepika-1811/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepika-1811/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepika-1811/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepika-1811/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
