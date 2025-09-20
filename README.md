@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Deepika-1811/LeetCode/tree/master/0100-same-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepika-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Deepika-1811/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Function
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Deepika-1811/LeetCode/tree/master/0100-same-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Deepika-1811/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepika-1811/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Deepika-1811/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Deepika-1811/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
