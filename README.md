@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepika-1811/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Deepika-1811/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepika-1811/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Deepika-1811/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepika-1811/LeetCode/tree/master/0053-maximum-subarray) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Deepika-1811/LeetCode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Deepika-1811/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1095-two-city-scheduling](https://github.com/Deepika-1811/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Deepika-1811/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Deepika-1811/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepika-1811/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepika-1811/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Deepika-1811/LeetCode/tree/master/0189-rotate-array) |
