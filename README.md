@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepika-1811/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Deepika-1811/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepika-1811/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Deepika-1811/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Deepika-1811/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepika-1811/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepika-1811/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Deepika-1811/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepika-1811/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Deepika-1811/LeetCode/tree/master/0792-binary-search) |
