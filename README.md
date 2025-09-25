@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepika-1811/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Deepika-1811/LeetCode/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/Deepika-1811/LeetCode/tree/master/0740-delete-and-earn) |
+| [0792-binary-search](https://github.com/Deepika-1811/LeetCode/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepika-1811/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1095-two-city-scheduling](https://github.com/Deepika-1811/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepika-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepika-1811/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Deepika-1811/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/Deepika-1811/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Deepika-1811/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Design
