@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Deepika-1811/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Deepika-1811/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1023-time-based-key-value-store](https://github.com/Deepika-1811/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Deepika-1811/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepika-1811/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Deepika-1811/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepika-1811/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepika-1811/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Deepika-1811/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepika-1811/LeetCode/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Deepika-1811/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deepika-1811/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
